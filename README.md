@@ -4,7 +4,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/piyush-agrawal6/Sephora-clone.git
+  git clone https://github.com/RahulChoudharyGitREPO/Sephora-clone.git
 ```
 
 Go to the project directory
