@@ -48,7 +48,7 @@ Sephora is an online e-commerce website for personal care and beauty products. S
 
 
 ## 🔗 Links
-Client - https://sephoraa-clone.netlify.app/
+Live Demo -exquisite-mooncake-c4b8a7.netlify.app/
 
 
 ## Features
