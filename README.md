@@ -44,20 +44,12 @@ Sephora is an online e-commerce website for personal care and beauty products. S
 - **Chakra UI**
 - **React Icons**
 
-**Server:**
 
-- **Node Js**
-- **Mongo DB**
-- **Express Js**
-- **JWT**
-- **Validator**
-- **Render**
 
 
 ## 🔗 Links
 Client - https://sephoraa-clone.netlify.app/
 
-Server - https://github.com/piyush-agrawal6/Shopaholic-Backend
 
 ## Features
 
@@ -88,15 +80,5 @@ Server - https://github.com/piyush-agrawal6/Shopaholic-Backend
 
 ## Blog / Presentation
 
-Presentation - https://drive.google.com/file/d/1dfOVHAxlT2gc2QzNTzBp5t9_Mdu7MP4a/view
 
-Blog - https://medium.com/p/2646749b3856
-
-## Contributors
-
-- [@Piyush Agrawal](https://github.com/piyush-agrawal6)
-- [@Akash Panda](https://github.com/AkashPanda1701)
-- [@Nikhil Sahni](https://github.com/snikhil2001)
-- [@Yogesh Yadav](https://github.com/yadav123yo)
-- [@Nikhil Walwatkar](https://github.com/Nikhil-81)
 
